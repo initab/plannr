@@ -1,0 +1,39 @@
+Här är mina anteckningar från tavlan...
+
+   Clinic         OccasionTemplate
+     ||  \         /     |
+     ||   Occasions      |
+     ||                  |
+  Volunteer =========== Role
+
+-----------------------------------
+| Clinic - a place for activities |
+| - name                          |
+| - address                       |
+| - volunteers                    |
+| - occasions                     |
+-----------------------------------
+
+-----------------------------------
+| Occasion                        |
+| - start_time                    |
+| - duration (?)                  |
+-----------------------------------
+
+----------------------------------- 
+| OccasionTemplate                |
+| - name                          |
+-----------------------------------
+
+-----------------------------------
+| Role                            |
+| - authLevel                     |
+| - name                          |
+| - warningTime                   |
+-----------------------------------
+
+-----------------------------------
+| Volunteer                       |
+| - name                          |
+| - phone                         |
+-----------------------------------
